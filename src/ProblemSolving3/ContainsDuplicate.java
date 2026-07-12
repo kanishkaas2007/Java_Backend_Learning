@@ -1,4 +1,3 @@
-package ProblemSolving3;
 import java.util.HashSet;
 
 public class ContainsDuplicate {

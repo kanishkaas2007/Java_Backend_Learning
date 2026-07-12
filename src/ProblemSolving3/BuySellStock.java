@@ -24,5 +24,4 @@ public class BuySellStock {
         int[] prices = {7, 1, 5, 3, 6, 4};
         int answer = obj.maxProfit(prices);
         System.out.println("Maximum Profit: " + answer);
-    }
 }

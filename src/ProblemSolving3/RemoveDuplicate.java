@@ -1,6 +1,5 @@
 package ProblemSolving3;
 
-public class RemoveDuplicate {
     public int removeDuplicates(int[] nums) {
         if (nums.length == 0) {
             return 0;
