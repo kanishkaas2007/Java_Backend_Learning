@@ -11,7 +11,6 @@ public class BuySellStock {
                 minPrice = prices[i];
             }
             int profit = prices[i] - minPrice;
-
             if (profit > maxProfit) {
                 maxProfit = profit;
             }

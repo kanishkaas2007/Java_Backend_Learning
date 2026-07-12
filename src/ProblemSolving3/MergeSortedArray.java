@@ -9,7 +9,6 @@ public class MergeSortedArray {
         while (i >= 0 && j >= 0) {
 
             if (nums1[i] > nums2[j]) {
-                i--;
             } else {
                 nums1[k] = nums2[j];
                 j--;
